@@ -35,4 +35,4 @@ const String fiverr = 'https://www.fiverr.com/sudeshnb';
 // Github Link
 const String upwork = 'https://www.upwork.com/freelancers/~015c46144016569e31';
 // Github Link
-const String whatsapp = 'https://api.whatsapp.com/send?phone=94741325674';
+const String whatsapp = 'https://api.whatsapp.com/send?phone=923073921189';
